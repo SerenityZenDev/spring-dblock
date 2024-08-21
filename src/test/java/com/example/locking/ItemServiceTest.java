@@ -1,5 +1,8 @@
 package com.example.locking;
 
+import com.example.locking.item.Item;
+import com.example.locking.item.ItemRepository;
+import com.example.locking.item.ItemService;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
